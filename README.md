@@ -19,7 +19,7 @@
 
 <!-- AUTORES -->
 ### 👥 Creadores  
-- [Luis Manuel]()
+- [Luis Manuel](https://github.com/httpluris7)
 - [Pol]()
 
 ---
