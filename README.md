@@ -69,7 +69,7 @@ Además, se estudió la respuesta de distintos perfiles de usuarios (por edad, n
 📌 Los hallazgos se presentaron en dos formatos visuales dinámicos:
 
 - **[📊 Dashboard en Tableau]()**
-- **[📈 Presentación en Canva]()**
+- **[📈 Presentación en Canva]("https://www.canva.com/design/DAGo2PO_9Ds/uQz0oqOd6NjWNXuHd6wBQg/edit")**
 
 ---
 
